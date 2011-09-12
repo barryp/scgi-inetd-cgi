@@ -1,3 +1,7 @@
-This is a small C shim to allow a CGI script to be executed by a 
-super-server such as inetd, and communicate with a web server running 
+This is a small C shim to allow a CGI script to be executed by a
+super-server such as inetd, and communicate with a web server running
 the SCGI protocol.
+
+A writeup on how you'd use this program is at
+
+    http://diskcompare.com/blog/entries/cgi-scripts-nginx-using-scgi/
